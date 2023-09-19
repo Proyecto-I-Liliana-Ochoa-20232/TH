@@ -1,1 +1,7 @@
 Se edita el título del proyecto
+
+Se crea una interfaz hero
+
+Se muestra el objeto heroe
+
+Se edita el heroe
