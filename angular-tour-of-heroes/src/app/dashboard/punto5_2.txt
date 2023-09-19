@@ -1,0 +1,1 @@
+Agrega una vista al panel con el componente dashboard
