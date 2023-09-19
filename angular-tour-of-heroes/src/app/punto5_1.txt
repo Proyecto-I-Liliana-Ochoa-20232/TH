@@ -1,0 +1,1 @@
+Se gebnera el enrutador con app-routing.module. Las rutas le indican al enrutador qué vista mostrar
