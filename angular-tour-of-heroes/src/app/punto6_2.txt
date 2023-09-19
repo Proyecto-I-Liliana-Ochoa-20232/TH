@@ -1,0 +1,1 @@
+Se configura hero.service con HTTP
